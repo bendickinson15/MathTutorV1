@@ -5,11 +5,10 @@ using namespace std; //sets standard namespace
 //start of the main function
 int main() {
     //initializing variables
-    string name;
-    int left = 0;
-    int right = 0;
-    int answer = 0;
-
+    string name = "unknown";
+    int left = 4;
+    int right = 9;
+    int answer = 13;
 
     //aesthetic header
     cout <<"Welcome to the tower of the wizard of magical math tutoring (V1)" << endl;
@@ -25,7 +24,21 @@ int main() {
 '--'      '--' '.(_,_).'    '---'   '(_,_) '---'         `---'    `---` '---'|_________| '.(_,_).' ''-'   `'-'  '-----'`
 
                                                                                                                                  )" << endl;
-    cout <<R"(A wise wizards words:)"<< endl;
+
+    //jokes
+    cout <<R"(A wise wizards words:
+What's a wizard's favorite school subject? spell-gebra!
+Why did the sorcerer break his calculator? He wanted to do math-a-magics in his head!
+What is a witch's favorite shape? A Hex-agon!
+What do you call a snake that is 3.14 feet long? A Pi-thon!)"<< endl;
+    
+    //obtaining user's name
     cout <<"What is your name young apprentice?"<< endl;
+    cin >>name;
+
+    //math question and answer
+    cout << name << ", What is " << left << "+ " << right << "= ";
+    cin >> answer;
+
     return 0;
 }
