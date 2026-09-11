@@ -26,6 +26,7 @@ This is a math tutoring program themed around wizards/magic.
 - If/then functionality
 
 ## Console Output Testing Example
+```
 Welcome to the tower of the wizard of magical math tutoring (V1)
 
 ,---.    ,---.   ____   ,---------. .---.  .---.    .--.      .--..-./`)  ____..--'   ____    .-------.     ______
@@ -55,7 +56,6 @@ What is 4 + 9 = 13
 Good job! You Got The Question Right!
 This is all for out program! I hope you had a fanstic time!
 The Wizard math V2 Be Out Shortly!
+```
 
-
-
-[Back to Top](#math-tutor-v1) 
+[Back to Top](#math-tutor-v1)
