@@ -14,9 +14,9 @@ This is a math tutoring program themed around wizards/magic.
 - Says goodbye to the user
 
 ## Maintainers
-[@bendickinson15](https://github.com/bendickinson15) Benjamin Dickinson
-[@kyleenaparnell](https://github.com/kyleenaparnell) Kayleena Parnell
-[@Insanedoomed](https://github.com/Insanedoomed) Brayden Tolle
+[@bendickinson15](https://github.com/bendickinson15) Benjamin Dickinson  
+[@kyleenaparnell](https://github.com/kyleenaparnell) Kyleena Parnell  
+[@Insanedoomed](https://github.com/Insanedoomed) Brayden Tolle  
 
 ## New Concepts Used
 - Documentation and whitespace
