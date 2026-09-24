@@ -27,7 +27,9 @@ This is a math tutoring program themed around wizards/magic.
 
 ## Console Output Testing Example
 ```
-Welcome to the tower of the wizard of magical math tutoring (V1)
+(*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*]
+
+                       {*} Welcome to the tower of the wizard of magical math tutoring! (V1) {*}
 
 ,---.    ,---.   ____   ,---------. .---.  .---.    .--.      .--..-./`)  ____..--'   ____    .-------.     ______
 |    \  /    | .'  __ `.\          \|   |  |_ _|    |  |_     |  |\ .-.')|        | .'  __ `. |  _ _   \   |    _ `''.
@@ -41,16 +43,21 @@ Welcome to the tower of the wizard of magical math tutoring (V1)
 
 
 
-A wise wizards words:
-    What's a wizard's favorite school subject? spell-gebra!
-    Why did the sorcerer break his calculator? He wanted to do math-a-magics in his head!
-    What is a witch's favorite shape? A Hex-agon!
-    What do you call a snake that is 3.14 feet long? A Pi-thon!
-What is your name young apprentice?
- Brayden
+(*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*]
 
-Ah... Brayden! So you have finally found me. If you truly seek the knowledge hidden within these ancient halls, you must
- first prove your mind is sharp.
+A wise wizards words:
+        (*) What's a wizard's favorite school subject? spell-gebra!
+        (*) Why did the sorcerer break his calculator? He wanted to do math-a-magics in his head!
+        (*) What is a witch's favorite shape? A Hex-agon!
+        (*) What do you call a snake that is 3.14 feet long? A Pi-thon!
+
+(*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*](*)[*]{*}[*]
+
+What is your name young apprentice?
+Ben
+
+Ah... Ben! So you have finally found me. If you truly seek the knowledge hidden within these ancient halls, you must
+first prove your mind is sharp.
 What is 4 + 9 = 13
 
 Good job! You Got The Question Right!
